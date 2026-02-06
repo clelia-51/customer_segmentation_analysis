@@ -1,2 +1,2 @@
 # customer_analysis
-XXXX
+We did a customer segmentation analysis using R. 
