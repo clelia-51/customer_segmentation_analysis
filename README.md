@@ -132,15 +132,4 @@ install.packages("ggplot2")
 
 This project demonstrates how data analysis can support marketing teams by enabling data-driven customer segmentation and personalized marketing strategies.
 
----
-
-## Author
-
-Clelia Adade
-
-Master’s student in Data Science for Marketing
-
-Audencia Business School
-
-[LinkedIn Profile](add your link here)
 
